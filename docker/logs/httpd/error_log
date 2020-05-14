@@ -1,0 +1,65 @@
+[Thu May 14 14:50:44.843026 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 14:50:44.861777 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 14:50:44.880342 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 14:50:44.880375 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 14:53:24.454462 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 14:54:28.011713 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.25.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 14:54:28.026086 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 14:54:28.045616 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 14:54:28.045662 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 14:55:32.420478 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 14:56:01.417495 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 14:56:01.468094 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 14:56:01.491374 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 14:56:01.491406 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 14:58:51.682126 2020] [core:notice] [pid 1] AH00052: child pid 21 exit signal Interrupt (2)
+[Thu May 14 15:00:40.790339 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 15:01:10.554850 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 15:01:10.569345 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 15:01:10.588983 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 15:01:10.589008 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 15:01:56.545702 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 15:02:27.431375 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.31.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 15:02:27.446230 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 15:02:27.506606 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 15:02:27.506638 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 15:03:08.549558 2020] [core:notice] [pid 1] AH00052: child pid 16 exit signal Interrupt (2)
+[Thu May 14 15:05:48.846316 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 15:06:11.275295 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.32.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 15:06:11.289518 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 15:06:11.308724 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 15:06:11.308749 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 15:14:58.282108 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 15:15:17.035520 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.64.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 15:15:17.050097 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 15:15:17.070367 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 15:15:17.070423 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 15:16:09.658527 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 15:18:34.014797 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.96.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 15:18:34.029740 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 15:18:34.048638 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 15:18:34.048663 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 15:24:49.664174 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Thu May 14 15:25:07.747294 2020] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00112: Warning: DocumentRoot [/var/www/html/public] does not exist
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.128.2. Set the 'ServerName' directive globally to suppress this message
+[Thu May 14 15:25:07.762339 2020] [lbmethod_heartbeat:notice] [pid 1] AH02282: No slotmem from mod_heartmonitor
+[Thu May 14 15:25:07.782268 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Thu May 14 15:25:07.782315 2020] [core:notice] [pid 1] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Thu May 14 15:56:15.377911 2020] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
